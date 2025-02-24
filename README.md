@@ -1,5 +1,5 @@
 # mu98
-Windows 98 style theme for muOS (mustardOS) for Anbernic and other retro handheld devices. Supports 640x480 and 720x480 (RG34XX) devices.
+Windows 98 style theme for muOS (mustardOS) for Anbernic and other retro handheld devices. Supports 640x480 and 720x480 (RG34XX) devices. Note: Despite the Start Menu looking vertical, it is navigated by the left/right buttons on the D-Pad
 
 ![GIF showing the main menu, with Explore, Favorites, History, and Applications as desktop icons, and Information, Configuration, Reboot, and Shutdown as options in the Start Menu](https://kazy.zip/img/muxplaunch.gif)
 
